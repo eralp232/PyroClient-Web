@@ -1,2 +1,6 @@
-# PyroClient-Web
-@pyroclient.com website source &amp; other files.
+# PyroClient-Website
+
++ **PyroClient website source code and other useful files.**
+
+# Credits
+Pairo Team - for website
